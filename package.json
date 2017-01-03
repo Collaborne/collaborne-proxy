@@ -2,6 +2,7 @@
   "name": "collaborne-proxy",
   "version": "0.0.1",
   "license": "MIT",
+  "bin": "server/index.js",
   "scripts": {
     "start": "node server/index.js"
   },
