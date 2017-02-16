@@ -1,5 +1,7 @@
 # collaborne-proxy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Collaborne/collaborne-proxy.svg)](https://greenkeeper.io/)
+
 This is a very simple Express 4.x proxy that exposes the /api and /login endpoints of a Collaborne system running inside [minikube](https://github.com/kubernetes/minikube).
 
 ## Installation
